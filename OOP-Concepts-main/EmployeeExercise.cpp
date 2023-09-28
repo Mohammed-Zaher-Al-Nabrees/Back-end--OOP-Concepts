@@ -79,7 +79,7 @@ public:
 
 };
 int main() {
-	clsEmployee Employee1(100,"Asma","Sabbah","asma@gmail.com","078587654321","Developer","IT",1500);
+	clsEmployee Employee1(100,"mhmd","zaher","mhmdznabrees@gmail.com","0594465309","Developer","IT",1500);
 	Employee1.Print();
 
 	Employee1.SendEmail("Announcement","Tommorrow will be a break");
