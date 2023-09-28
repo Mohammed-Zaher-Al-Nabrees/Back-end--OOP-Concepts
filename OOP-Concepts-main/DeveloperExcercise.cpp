@@ -117,7 +117,7 @@ public:
 };
 
 int main() {
-	clsDeveloper Developer1(100, "Asma", "Sabbah", "asma@gmail.com", "07887654321", "Developer", "IT", 1500,"PHP");
+	clsDeveloper Developer1(100, "Mohammed", "Zhaer", "mhmdzaher@gmail.com", "0594465309", "Developer", "IT", 1500,"C++");
 	Developer1.Print();
 	return 0;
 }
