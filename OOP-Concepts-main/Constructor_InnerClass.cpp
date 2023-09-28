@@ -33,7 +33,7 @@ public:
 };
 
 int    main() {
-	clsPerson Person1("Mohammed Abu-Hadhoud", "Building 10", "Queen Rania Street", "Amman", "Jordan");
+	clsPerson Person1("Mohammed Zaher", "Building 10", "Ahmed Abd-Alazeez shcool st.5", "Gaza", "Palestine");
 	Person1.Address.Print();
 	system("pause>0");
 	return 0;
